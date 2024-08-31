@@ -2,15 +2,15 @@
 ## 1. Buat file Java: Simpan setiap kelas di atas dalam file terpisah dengan nama yang sesuai (Mahasiswa.java, ManajemenMahasiswa.java, Main.java).
 Kompilasi program: Gunakan terminal atau command prompt untuk menjalankan perintah javac guna mengompilasi file-file tersebut.
 
-'''bash
+```bash
 javac Mahasiswa.java ManajemenMahasiswa.java Main.java
-'''
+```
 
 ## 2. Jalankan program: Setelah kompilasi berhasil, jalankan program dengan perintah:
 
-'''bash
+```bash
 java Main
-'''
+```
 
 ## 3. Penjelasan Konsep OOP
 - **Encapsulation**: Kelas Mahasiswa menggunakan private untuk menyembunyikan data dan menyediakan metode getter dan setter untuk mengakses atau memodifikasi data.
