@@ -1,3 +1,5 @@
+Java OOP
+
 1. Encapsulation:
 Setiap kelas (Animal, Dog, Cat) memiliki atribut private dan menyediakan akses melalui metode getter dan setter.
 
