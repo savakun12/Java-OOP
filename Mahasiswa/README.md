@@ -13,6 +13,6 @@ java Main
 ```
 
 ## 3. Penjelasan Konsep OOP
-- **Encapsulation**: Kelas Mahasiswa menggunakan private untuk menyembunyikan data dan menyediakan metode getter dan setter untuk mengakses atau memodifikasi data.
-- **Abstraction**: Kelas ManajemenMahasiswa menyediakan abstraksi untuk operasi-operasi yang bisa dilakukan terhadap data mahasiswa.
+- **Encapsulation**: Kelas *Mahasiswa* menggunakan *private* untuk menyembunyikan data dan menyediakan metode *getter* dan *setter* untuk mengakses atau memodifikasi data.
+- **Abstraction**: Kelas *ManajemenMahasiswa* menyediakan abstraksi untuk operasi-operasi yang bisa dilakukan terhadap data mahasiswa.
 - **Inheritance dan Polymorphism**: Tidak digunakan dalam contoh ini, tetapi bisa ditambahkan untuk implementasi yang lebih kompleks.
